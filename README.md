@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey there 👋
+```
+I'm Ayaz, a self-taught programmer. <br />
+I love making websites, tools and exploring new technologies. 
+<br />
+<br />
+```
+```
+    - 🌱 I’m currently learning React, Django and Flutter.
+    - 👯 I’m looking to collaborate on Djano and React projects.
+    - 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
+    - ⚡ Fun fact: There is a hacker attack every 39 seconds.
+```
+**Languages and Tools:**
+
+<code><img height="20" title="BootStrap" src="/assets/bootstrap.png"></code>
+<code><img height="20" title="BootStrap" src="/assets/bash.png"></code>
+<code><img height="20" title="BootStrap" src="/assets/python.jpg"></code>
+<code><img height="20" title="JavaScript" src="/assets/javascript.png"></code>
+<code><img height="20" title="React" src="/assets/react.png"></code>
+
+
+<!--Ayaz's Github Stats -->
+<img src = "https://github-readme-stats.vercel.app/api?username=rebel47&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&line_height=27&hide=stars" />
+
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rebel47.rebel47)
