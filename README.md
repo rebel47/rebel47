@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ### Hey there 👋
 ```
-I'm Ayaz, a self-taught programmer. <br />
+I'm Ayaz, a self-taught programmer. 
 I love making websites, tools and exploring new technologies. 
-<br />
-<br />
+
 ```
 ```
     - 🌱 I’m currently learning React, Django and Flutter.
