@@ -31,8 +31,8 @@ I love making websites, tools and exploring new technologies.
 **Languages and Tools:**
 
 <code><img height="20" title="BootStrap" src="/assets/bootstrap.png"></code>
-<code><img height="20" title="BootStrap" src="/assets/bash.png"></code>
-<code><img height="20" title="BootStrap" src="/assets/python.jpg"></code>
+<code><img height="20" title="Bash" src="/assets/bash.png"></code>
+<code><img height="20" title="Python" src="/assets/python.jpg"></code>
 <code><img height="20" title="JavaScript" src="/assets/javascript.png"></code>
 <code><img height="20" title="React" src="/assets/react.png"></code>
 
