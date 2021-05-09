@@ -21,12 +21,12 @@ I'm Ayaz, a self-taught programmer.
 I love making websites, tools and exploring new technologies. 
 
 ```
-```
-    - 🌱 I’m currently learning React, Django and Flutter.
-    - 👯 I’m looking to collaborate on Django and React projects.
-    - 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
-    - ⚡ Fun fact: There is a hacker attack every 39 seconds.
-```
+
+- 🌱 I’m currently learning React, Django and Flutter.
+- 👯 I’m looking to collaborate on Django and React projects.
+- 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
+- ⚡ Fun fact: There is a hacker attack every 39 seconds.
+
 **Languages and Tools:**
 
 <code><img height="20" title="BootStrap" src="/assets/bootstrap.png"></code>
