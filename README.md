@@ -22,8 +22,8 @@ I love making websites, tools and exploring new technologies.
 
 ```
 
-- 🌱 I’m currently learning React, Django and Flutter.
-- 👯 I’m looking to collaborate on Django and React projects.
+- 🌱 I’m currently learning Django and Flutter.
+- 👯 I’m looking to collaborate on Django projects.
 - 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
 - ⚡ Fun fact: There is a hacker attack every 39 seconds.
 
@@ -33,7 +33,7 @@ I love making websites, tools and exploring new technologies.
 <code><img height="20" title="Bash" src="/assets/bash.png"></code>
 <code><img height="20" title="Python" src="/assets/python.jpg"></code>
 <code><img height="20" title="JavaScript" src="/assets/javascript.png"></code>
-<code><img height="20" title="React" src="/assets/react.png"></code>
+<!-- <code><img height="20" title="React" src="/assets/react.png"></code> -->
 
 
 <!--Ayaz's Github Stats -->
