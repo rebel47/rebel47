@@ -22,7 +22,7 @@ I love making websites, tools and exploring new technologies.
 
 ```
 
-- 🌱 I’m currently learning ML, AI and Django.
+- 🌱 I’m currently learning Data Science, AI, ML and Django.
 - 👯 I’m looking to collaborate on Django projects.
 - 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
 - ⚡ Fun fact: The Firefox logo isn't a fox.
