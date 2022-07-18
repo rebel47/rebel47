@@ -26,6 +26,7 @@ I love making websites, tools and exploring new technologies.
 - 👯 I’m looking to collaborate on Django projects.
 - 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
 - ⚡ Fun fact: The Firefox logo isn't a fox.
+- 😄 Monkeytype Profile: [here](https://monkeytype.com/profile/bdfE1IHFRVPm38RdjYpZMwqhfYR2)
 
 **Languages and Tools:**
 
