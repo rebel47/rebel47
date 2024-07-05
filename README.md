@@ -23,7 +23,7 @@ I have experience in business development, web development, and a variety of dat
 ```
 
 - 🌱 I’m currently learning Data Science, AI, ML and Django.
-- 👯 I’m looking to collaborate on Django projects.
+- 👯 I’m looking to collaborate on NLP projects.
 - 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
 - ⚡ Fun fact: The Firefox logo isn't a fox.
 - 😄 Monkeytype Profile: [here](https://monkeytype.com/profile/rebel47)
