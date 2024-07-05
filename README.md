@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### Hey there 👋
 ```
-I'm Ayaz, a self-taught programmer. 
-I love making websites, tools and exploring new technologies. 
+Hi, I'm Mohammad Ayaz Alam, a passionate Data Scientist with expertise in Python, Machine Learning, AI, and web development. I have experience in business development, web development, and a variety of data-driven projects. 
 
 ```
 
