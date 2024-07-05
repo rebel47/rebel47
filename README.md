@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Hey there 👋
 ```
-Hi, I'm Mohammad Ayaz Alam, a passionate Data Scientist with expertise in Python, Machine Learning, AI, and web development. I have experience in business development, web development, and a variety of data-driven projects. 
+Hi, I'm Mohammad Ayaz Alam, a passionate Data Scientist with expertise in Python, Machine Learning, AI, and web development.
+I have experience in business development, web development, and a variety of data-driven projects. 
 
 ```
 
