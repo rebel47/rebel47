@@ -4,23 +4,22 @@
 
 ### Hey there 👋
 
-Hi, I'm Mohammad Ayaz Alam, a Data Scientist currently focused on Natural Language Processing (NLP) projects.
-I have experience in business development, web development, and a variety of data-driven projects.
+Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language Processing (NLP) and cutting-edge AI technologies. I also have a background in business development and web development.
 
-- 🌱 I’m currently learning advanced techniques in Data Science and Machine Learning.
-- 👯 I’m looking to collaborate on NLP projects.
-- 💬 Ask me about anything [here](https://twitter.com/ayaz_rebel47)
-- ⚡ Fun fact: The Firefox logo isn't a fox.
-- 😄 Monkeytype Profile: [here](https://monkeytype.com/profile/rebel47)
+- 🌱 Currently diving deep into advanced Data Science and Machine Learning techniques.
+- 👯 Open to collaborating on exciting NLP projects.
+- 💬 Connect with me on [Twitter](https://twitter.com/ayaz_rebel47)!
+- ⚡ Fun fact: The Firefox logo is actually a red panda!
+- 😄 Check out my Monkeytype profile: [here](https://monkeytype.com/profile/rebel47)
 
-**Languages and Tools:**
+**Skills & Tools:**
 
-<code><img height="20" title="BootStrap" src="/assets/bootstrap.png"></code>
-<code><img height="20" title="Bash" src="/assets/bash.png"></code>
-<code><img height="20" title="Python" src="/assets/python.jpg"></code>
-<code><img height="20" title="JavaScript" src="/assets/javascript.png"></code>
+<code><img height="20" title="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></code>
+<code><img height="20" title="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"></code>
+<code><img height="20" title="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"></code>
+<code><img height="20" title="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></code>
 
-<!--Ayaz's Github Stats -->
-<!--<img src="https://github-readme-stats.vercel.app/api?username=rebel47&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&line_height=27&hide=stars" />-->
+<!-- Mohammad's GitHub Stats -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=rebel47&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&line_height=27&hide=stars" /> -->
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rebel47.rebel47)
