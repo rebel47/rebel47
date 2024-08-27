@@ -21,6 +21,6 @@ I have experience in business development, web development, and a variety of dat
 <code><img height="20" title="JavaScript" src="/assets/javascript.png"></code>
 
 <!--Ayaz's Github Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=rebel47&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&line_height=27&hide=stars" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=rebel47&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&line_height=27&hide=stars" />-->
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rebel47.rebel47)
