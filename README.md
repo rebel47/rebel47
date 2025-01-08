@@ -26,14 +26,15 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
   - Built responsive websites using HTML, CSS, JavaScript, and modern web frameworks.
 
 **Projects:**
-- [**AI-Powered Image-to-Story Generator**](https://github.com/rebel47/imagetostory) - Converts images into short stories using Gemini AI and gTTS.
-- [**Food Locha**](https://github.com/rebel47/Food-Locha) - An AI-powered app that recommends food recipes based on available ingredients and dietary preferences, enhancing meal planning.
-- [**Advanced WhatsApp Chat Analytics Platform**](https://github.com/rebel47/Whatsapp-Chat-Analyzer) - Analyzes WhatsApp chat data with interactive visualizations.
-- [**Gemini ATS Resume Improvement Tool**](https://github.com/rebel47/ATS-with-Cover-Letter) - AI-powered app to evaluate resumes and generate cover letters based on job descriptions.
-- [**Lina's Audio to Text Transcription App**](https://lina-speech-to-text.streamlit.app/) - Streamlit-based application to transcribe audio files into text, supporting multiple languages and handling long audio files by splitting them into smaller chunks.
-- [**Interactive RAG-Based QA System for Neural Dynamics**](https://github.com/rebel47/RAG-Powered-Q-A-for-Neural-Dynamics-Course-with-LlamaIndex) - A RAG system to analyze lecture slides with LlamaIndex and Llama-2-7b-chat-hf.
-- [**Email/SMS Spam Classifier**](https://github.com/rebel47/Email-SMS-Classifier) - ML model for classifying messages as spam or ham using NLP techniques.
-- [**Emotion Detection System**](https://github.com/rebel47/Emotion-Detection-System) - CNN-based system to classify facial expressions into seven emotions with TensorFlow and Keras.
+1. [**Persona Chatbot**](https://github.com/rebel47/persona-chatbot) - An AI-powered chatbot that emulates conversational styles based on WhatsApp chat history. It features persona selection, contextual chat, and a user-friendly Streamlit interface.
+2. [**Lina's Audio to Text Transcription App**](https://lina-speech-to-text.streamlit.app/) - Streamlit-based application to transcribe audio files into text, supporting multiple languages and handling long audio files by splitting them into smaller chunks.
+3. [**Food Locha**](https://github.com/rebel47/Food-Locha) - An AI-powered app that recommends food recipes based on available ingredients and dietary preferences, enhancing meal planning.
+4. [**AI-Powered Image-to-Story Generator**](https://github.com/rebel47/imagetostory) - Converts images into short stories using Gemini AI and gTTS.
+5. [**Advanced WhatsApp Chat Analytics Platform**](https://github.com/rebel47/Whatsapp-Chat-Analyzer) - Analyzes WhatsApp chat data with interactive visualizations.
+6. [**Gemini ATS Resume Improvement Tool**](https://github.com/rebel47/ATS-with-Cover-Letter) - AI-powered app to evaluate resumes and generate cover letters based on job descriptions.
+7. [**Interactive RAG-Based QA System for Neural Dynamics**](https://github.com/rebel47/RAG-Powered-Q-A-for-Neural-Dynamics-Course-with-LlamaIndex) - A RAG system to analyze lecture slides with LlamaIndex and Llama-2-7b-chat-hf.
+8. [**Email/SMS Spam Classifier**](https://github.com/rebel47/Email-SMS-Classifier) - ML model for classifying messages as spam or ham using NLP techniques.
+9. [**Emotion Detection System**](https://github.com/rebel47/Emotion-Detection-System) - CNN-based system to classify facial expressions into seven emotions with TensorFlow and Keras.
 
 **Certifications:**
 - Full Stack Data Analytics - Python, SQL, Snowflake, PowerBI, DAX, Excel (iNeuron.ai)
