@@ -1,3 +1,7 @@
+Here’s the updated **GitHub profile README** with the **Be-Healthier** project added at number 4 in the **Projects** section:
+
+---
+
 ### Hey there 👋
 
 Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language Processing (NLP) and cutting-edge AI technologies. I have a strong background in machine learning, web development, and business analytics, and I am currently working as a Machine Learning Researcher.
@@ -28,13 +32,15 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
 **Projects:**
 1. [**Persona Chatbot**](https://github.com/rebel47/persona-chatbot) - An AI-powered chatbot that emulates conversational styles based on WhatsApp chat history. It features persona selection, contextual chat, and a user-friendly Streamlit interface.
 2. [**Audio to Text Transcription App**](https://lina-speech-to-text.streamlit.app/) - Streamlit-based application to transcribe audio files into text, supporting multiple languages and handling long audio files by splitting them into smaller chunks.
-3. [**Advanced WhatsApp Chat Analytics Platform**](https://github.com/rebel47/Whatsapp-Chat-Analyzer) - Analyzes WhatsApp chat data with interactive visualizations.
-4. [**Food Locha**](https://github.com/rebel47/Food-Locha) - An AI-powered app that analyzes meal images, calculates calorie details, provides nutritional insights, and offers suggestions to make your meals healthier.
-5. [**AI-Powered Image-to-Story Generator**](https://github.com/rebel47/imagetostory) - Converts images into short stories using Gemini AI and gTTS.
-6. [**Gemini ATS Resume Improvement Tool**](https://github.com/rebel47/ATS-with-Cover-Letter) - AI-powered app to evaluate resumes and generate cover letters based on job descriptions.
-7. [**Interactive RAG-Based QA System for Neural Dynamics**](https://github.com/rebel47/RAG-Powered-Q-A-for-Neural-Dynamics-Course-with-LlamaIndex) - A RAG system to analyze lecture slides with LlamaIndex and Llama-2-7b-chat-hf.
-8. [**Email/SMS Spam Classifier**](https://github.com/rebel47/Email-SMS-Classifier) - ML model for classifying messages as spam or ham using NLP techniques.
-9. [**Emotion Detection System**](https://github.com/rebel47/Emotion-Detection-System) - CNN-based system to classify facial expressions into seven emotions with TensorFlow and Keras.
+3. [**Biller - Your Friendly AI-Powered Bill Management System**](https://github.com/rebel47/Biller) - A Streamlit-based application to manage and analyze bills using AI. It features bill categorization, manual entry, and interactive visualizations.
+4. [**Be-Healthier**](https://github.com/rebel47/be-healthier) - A web-based health and fitness tracker built with Streamlit. It helps users track fitness progress, log meals, monitor workouts, and analyze nutrition with an intuitive interface.
+5. [**Advanced WhatsApp Chat Analytics Platform**](https://github.com/rebel47/Whatsapp-Chat-Analyzer) - Analyzes WhatsApp chat data with interactive visualizations.
+6. [**Food Locha**](https://github.com/rebel47/Food-Locha) - An AI-powered app that analyzes meal images, calculates calorie details, provides nutritional insights, and offers suggestions to make your meals healthier.
+7. [**AI-Powered Image-to-Story Generator**](https://github.com/rebel47/imagetostory) - Converts images into short stories using Gemini AI and gTTS.
+8. [**Gemini ATS Resume Improvement Tool**](https://github.com/rebel47/ATS-with-Cover-Letter) - AI-powered app to evaluate resumes and generate cover letters based on job descriptions.
+9. [**Interactive RAG-Based QA System for Neural Dynamics**](https://github.com/rebel47/RAG-Powered-Q-A-for-Neural-Dynamics-Course-with-LlamaIndex) - A RAG system to analyze lecture slides with LlamaIndex and Llama-2-7b-chat-hf.
+10. [**Email/SMS Spam Classifier**](https://github.com/rebel47/Email-SMS-Classifier) - ML model for classifying messages as spam or ham using NLP techniques.
+11. [**Emotion Detection System**](https://github.com/rebel47/Emotion-Detection-System) - CNN-based system to classify facial expressions into seven emotions with TensorFlow and Keras.
 
 **Certifications:**
 - Full Stack Data Analytics - Python, SQL, Snowflake, PowerBI, DAX, Excel (iNeuron.ai)
