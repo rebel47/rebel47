@@ -1,7 +1,3 @@
-Here’s the updated **GitHub profile README** with the **Be-Healthier** project added at number 4 in the **Projects** section:
-
----
-
 ### Hey there 👋
 
 Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language Processing (NLP) and cutting-edge AI technologies. I have a strong background in machine learning, web development, and business analytics, and I am currently working as a Machine Learning Researcher.
