@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language Processing (NLP) and cutting-edge AI technologies. \n I have a strong background in machine learning, web development, and business analytics, and I am currently working as a Machine Learning Researcher.
+Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language Processing (NLP) and cutting-edge AI technologies.  I have a strong background in machine learning, web development, and business analytics, and I am currently working as a Machine Learning Researcher.
 
 - 🌱 Currently diving deep into advanced Data Science and Machine Learning techniques.
 - 👯 Open to collaborating on exciting NLP and AI-driven projects.
