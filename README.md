@@ -39,9 +39,11 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
 11. [**Emotion Detection System**](https://github.com/rebel47/Emotion-Detection-System) - CNN-based system to classify facial expressions into seven emotions with TensorFlow and Keras.
 
 **Certifications:**
+- AI Agents Fundamentals - Agents fundamentals, Tools and Action, Agents Workflow (Huggingface)
 - Full Stack Data Analytics - Python, SQL, Snowflake, PowerBI, DAX, Excel (iNeuron.ai)
 - Deep Learning Foundation - Neural Network, Backpropagation, CNN (iNeuron.ai)
 - Intro to Machine Learning - Model Validation, Underfitting-Overfitting (Kaggle)
+- Data Analysis with Python - Numpy, Pandas, Data Cleaning (freeCodeCamp)
 
 **Education:**
 - **MSc. Data Science** | Friedrich-Alexander-Universität Erlangen-Nürnberg (Oct 2022 - Present)
