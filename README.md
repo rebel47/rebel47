@@ -6,6 +6,7 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
 - 👯 Open to collaborating on exciting NLP and AI-driven projects.
 - ⚡ Fun fact: LLMs are like that one friend who confidently explains things they just made up. 🤣
 - 😄 Check out my Monkeytype profile: [here](https://monkeytype.com/profile/rebel47)
+- ✨ Streamlit profile: [here](https://share.streamlit.io/user/rebel47)
 
 **Skills & Tools:**
 
