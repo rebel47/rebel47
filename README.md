@@ -4,7 +4,7 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
 
 - 🌱 Currently diving deep into advanced Data Science and Machine Learning techniques.
 - 👯 Open to collaborating on exciting NLP and AI-driven projects.
-- ⚡ Fun fact: The Firefox logo is actually a red panda!
+- ⚡ Fun fact: LLMs are like that one friend who confidently explains things they just made up. 🤣
 - 😄 Check out my Monkeytype profile: [here](https://monkeytype.com/profile/rebel47)
 
 **Skills & Tools:**
