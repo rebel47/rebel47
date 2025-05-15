@@ -16,6 +16,9 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
 <code><img height="20" title="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></code>
 
 **Experience:**
+- **BASF** (Data Consultant | Ludwigshafen, Germany)
+  - Working on R&D of a state-of-the-art Generative AI product.
+
 - **Institute for Employment Research** (Machine Learning Researcher | Nuremberg, Germany)
   - Applied ML algorithms (XGBoost, Random Forest, SVM) to forecast labor market trends using large datasets.
   - Developed scalable data pipelines for preprocessing, feature engineering, and model optimization.
