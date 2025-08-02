@@ -31,7 +31,7 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
 
 **Projects:**
 1. [**Persona Chatbot**](https://github.com/rebel47/persona-chatbot) - An AI-powered chatbot that emulates conversational styles based on WhatsApp chat history. It features persona selection, contextual chat, and a user-friendly Streamlit interface.
-2. [**Audio to Text Transcription App**](https://merve-speech-to-text.streamlit.app/) - Streamlit-based application to transcribe audio files into text, supporting multiple languages and handling long audio files by splitting them into smaller chunks.
+2. [**Audio to Text Transcription App**](https://speech-to-text-mvp.streamlit.app/) - Streamlit-based application to transcribe audio files into text, supporting multiple languages and handling long audio files by splitting them into smaller chunks.
 3. [**Biller - Your Friendly AI-Powered Bill Management System**](https://biller.streamlit.app/) - A Streamlit-based application to manage and analyze bills using AI. It features bill categorization, manual entry, and interactive visualizations.
 4. [**Be-Healthier**](https://be-healthier.streamlit.app/) - A web-based health and fitness tracker built with Streamlit. It helps users track fitness progress, log meals, monitor workouts, and analyze nutrition with an intuitive interface.
 5. [**Advanced WhatsApp Chat Analytics Platform**](https://github.com/rebel47/Whatsapp-Chat-Analyzer) - Analyzes WhatsApp chat data with interactive visualizations.
