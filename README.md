@@ -16,6 +16,9 @@ Hi, I'm Mohammad Ayaz Alam, a Data Scientist with a passion for Natural Language
 <code><img height="20" title="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></code>
 
 **Experience:**
+- **Siemens Energy** (Data Scientist | Erlangen, Germany)
+  - Working TMS project, integrating AI Agents and MCP Servers.
+
 - **BASF** (Data Consultant | Ludwigshafen, Germany)
   - Working on R&D of a state-of-the-art Generative AI product.
 
