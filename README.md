@@ -95,13 +95,6 @@ Hi, I'm **Mohammad Ayaz Alam**, a Data Scientist and AI/ML Engineer with a passi
 - **iNeuron.ai** - Full Stack Data Analytics (Python, SQL, Snowflake, PowerBI, DAX, Excel)
 - **freeCodeCamp** - Data Analysis with Python (NumPy, Pandas, Data Cleaning)
 
----
-
-## 📊 GitHub Stats
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebel47&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebel47&layout=compact&theme=radical)
 
 ---
 
