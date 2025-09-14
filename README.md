@@ -28,25 +28,18 @@ Hi, I'm **Mohammad Ayaz Alam**, a Data Scientist and AI/ML Engineer with a passi
 
 ## 🛠️ Skills & Tools
 
-### **Generative AI & Advanced NLP**
 <code><img height="20" title="Agentic AI" src="https://img.shields.io/badge/-Agentic%20AI-FF6B6B?style=flat&logo=robot&logoColor=white"></code>
 <code><img height="20" title="LangChain" src="https://img.shields.io/badge/-LangChain-1C3A3A?style=flat&logo=chainlink&logoColor=white"></code>
 <code><img height="20" title="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"></code>
 <code><img height="20" title="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white"></code>
-
-### **Machine Learning & Data Science**
 <code><img height="20" title="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></code>
 <code><img height="20" title="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"></code>
 <code><img height="20" title="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"></code>
 <code><img height="20" title="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"></code>
-
-### **Development & Engineering**
 <code><img height="20" title="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"></code>
 <code><img height="20" title="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"></code>
 <code><img height="20" title="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></code>
 <code><img height="20" title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></code>
-
-### **Data Visualization & Analytics**
 <code><img height="20" title="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></code>
 <code><img height="20" title="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"></code>
 <code><img height="20" title="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"></code>
