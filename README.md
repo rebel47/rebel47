@@ -60,74 +60,24 @@ Hi, I'm **Mohammad Ayaz Alam**, a Data Scientist and AI/ML Engineer with a passi
 **🔬 Institute for Employment Research** - *Research Assistant* | Nuremberg, Germany (Mar 2025 - Present)  
 **🧪 BASF** - *Data Consultant Intern* | Ludwigshafen, Germany (Apr 2025 - Jul 2025)  
 **📊 Shape AI** - *Business Development Intern* | Delhi, India (Mar 2021 - Oct 2021)  
+**🌐 Hoda Engineering Works** - *Web Developer Intern* | Delhi, India (Sept 2020 - Jan 2021)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 1. [**🤖 Fine-Tuned GPT-2 for Poetry Generation with RL**](https://huggingface.co/ayazfau/GPT2-124M-poetry-RL)
-*🔥 3.5k+ Downloads on Hugging Face Hub*
-- Fine-tuned GPT-2 (124M) on Gutenberg poetry corpus using **Reinforcement Learning**
-- Designed custom reward functions for rhyme, coherence, and creativity
-- Implemented **policy-gradient methods** with adaptive learning rates
-- **Tech Stack**: Transformers, PyTorch, RLHF, Hugging Face
-
-### 2. [**💬 RAG Chatbot for Emulating Chat Tone and Personality**](https://persona-chat.streamlit.app/)
-- Built sophisticated **RAG system** for personality-aware conversation emulation
-- Integrated **FAISS** and **LangChain** for efficient similarity search from WhatsApp chat history
-- Features real-time chat, multi-session support, and persona configurations
-- **Tech Stack**: Python, Streamlit, Gemini Pro API, FAISS, LangChain
-
-### 3. [**💰 Biller - AI-Powered Bill Management System**](https://biller.streamlit.app/)
-- Full-stack expense management with **Gemini AI** for automated receipt processing
-- Integrated **Firebase (Firestore)** database with Google Authentication
-- Interactive analytics with **Plotly** and automated expense categorization
-- **Tech Stack**: Streamlit, Python, Gemini AI, Firebase, Plotly
-
-### 4. [**📊 Audio to Text Transcription App**](https://speech-to-text-mvp.streamlit.app/)
-- Multi-language audio transcription supporting long audio files
-- Intelligent audio chunking for processing large files
-- **Tech Stack**: Streamlit, Speech Recognition APIs
-
-### 5. [**🏥 Be-Healthier - AI Health Tracker**](https://be-healthier.streamlit.app/)
-- Comprehensive health and fitness tracking platform
-- Features meal logging, workout monitoring, and nutrition analysis
-- **Tech Stack**: Streamlit, Python, Data Visualization
-
-### 6. [**🍔 Food Locha - AI Nutrition Analyzer**](https://github.com/rebel47/Food-Locha)
-- AI-powered meal image analysis with calorie calculation
-- Provides nutritional insights and health improvement suggestions
-- **Tech Stack**: Computer Vision, AI APIs, Streamlit
-
-### 7. [**📈 Advanced WhatsApp Chat Analytics**](https://github.com/rebel47/Whatsapp-Chat-Analyzer)
-- Comprehensive chat data analysis with interactive visualizations
-- Advanced sentiment analysis and conversation pattern recognition
-- **Tech Stack**: Python, NLP, Data Visualization
-
-### 8. [**🎨 AI Image-to-Story Generator**](https://github.com/rebel47/imagetostory)
-- Converts images into compelling short stories using **Gemini AI**
-- Integrated **gTTS** for audio story generation
-- **Tech Stack**: Gemini AI, Computer Vision, gTTS
-
-### 9. [**📄 Gemini ATS Resume Optimizer**](https://github.com/rebel47/ATS-with-Cover-Letter)
-- AI-powered resume evaluation and cover letter generation
-- ATS optimization based on job descriptions
-- **Tech Stack**: Gemini AI, NLP, Document Processing
-
-### 10. [**🧠 Interactive RAG QA System for Neural Dynamics**](https://github.com/rebel47/RAG-Powered-Q-A-for-Neural-Dynamics-Course-with-LlamaIndex)
-- Advanced **RAG system** for academic content analysis
-- Integrated **LlamaIndex** with **Llama-2-7b-chat-hf** model
-- **Tech Stack**: LlamaIndex, Llama-2, RAG, Academic NLP
-
-### 11. [**📧 Email/SMS Spam Classifier**](https://github.com/rebel47/Email-SMS-Classifier)
-- Machine learning model for spam detection using advanced NLP
-- Feature engineering and model optimization for high accuracy
-- **Tech Stack**: Scikit-learn, NLP, Machine Learning
-
-### 12. [**😊 Emotion Detection System**](https://github.com/rebel47/Emotion-Detection-System)
-- **CNN-based** facial expression classification into seven emotions
-- Real-time emotion recognition system
-- **Tech Stack**: TensorFlow, Keras, Computer Vision, CNN
+1. [**🤖 Fine-Tuned GPT-2 for Poetry Generation with RL**](https://huggingface.co/ayazfau/GPT2-124M-poetry-RL) - *🔥 3.5k+ Downloads* | Reinforcement Learning for creative text generation
+2. [**💬 RAG Chatbot for Personality Emulation**](https://persona-chat.streamlit.app/) - Advanced RAG system with FAISS & LangChain for tone-aware conversations  
+3. [**💰 Biller - AI Bill Management**](https://biller.streamlit.app/) - Full-stack expense app with Gemini AI receipt processing & Firebase integration
+4. [**📊 Audio to Text Transcription**](https://speech-to-text-mvp.streamlit.app/) - Multi-language transcription with intelligent audio chunking
+5. [**🏥 Be-Healthier - AI Health Tracker**](https://be-healthier.streamlit.app/) - Comprehensive fitness platform with meal logging & nutrition analysis
+6. [**🍔 Food Locha - AI Nutrition Analyzer**](https://github.com/rebel47/Food-Locha) - Computer vision for meal analysis & calorie calculation
+7. [**📈 WhatsApp Chat Analytics**](https://github.com/rebel47/Whatsapp-Chat-Analyzer) - Interactive chat data analysis with sentiment recognition
+8. [**🎨 AI Image-to-Story Generator**](https://github.com/rebel47/imagetostory) - Gemini AI powered image storytelling with gTTS integration
+9. [**📄 Gemini ATS Resume Optimizer**](https://github.com/rebel47/ATS-with-Cover-Letter) - AI resume evaluation & cover letter generation
+10. [**🧠 RAG QA for Neural Dynamics**](https://github.com/rebel47/RAG-Powered-Q-A-for-Neural-Dynamics-Course-with-LlamaIndex) - Academic content analysis with LlamaIndex & Llama-2
+11. [**📧 Email/SMS Spam Classifier**](https://github.com/rebel47/Email-SMS-Classifier) - ML-based spam detection with advanced NLP features
+12. [**😊 Emotion Detection System**](https://github.com/rebel47/Emotion-Detection-System) - CNN-based facial expression classification for 7 emotions
 
 ---
 
