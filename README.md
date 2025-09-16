@@ -15,7 +15,7 @@ Hi, I'm **Mohammad Ayaz Alam**, a Data Scientist and AI/ML Engineer with a passi
 ## 🚀 What I'm Building
 
 **At Siemens Energy** (Master's Thesis - Jul 2025 - Present)
-- 🤖 Integrating **agentic AI** into Turbine Management Systems for intelligent operator support
+- 🤖 Integrating **agentic AI** into Terminal Management Systems for intelligent operator support
 - 🔧 Implementing **MCP servers** to orchestrate hierarchical multi-agent systems
 - 📊 Building **NLP components** for automated log analysis, report generation, and configuration management
 
