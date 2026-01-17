@@ -42,23 +42,5 @@
 
 ---
 
-## 🚀 Projects
-
-**🤖 [Multi-Agent Project Generator](https://github.com/rebel47/Multi-Agent-Project-Generator)**  
-Autonomous planner-architect-coder system for software generation
-
-**✍️ [GPT-2 Poetry RL](https://huggingface.co/ayazfau/GPT2-124M-poetry-RL)**  
-Fine-tuned GPT-2 with custom reward functions
-
-**💬 [Persona Chat](https://persona-chat.streamlit.app/)**  
-RAG chatbot with personality emulation
-
-**📱 [Ilmora](https://ilhamlabs-ai.github.io/ilmora-web/)**  
-Privacy-first offline LLM inference app
-
-**💰 [Spento](https://ilhamlabs-ai.github.io/Spento-Web/)**  
-AI-powered expense tracking with receipt analysis
-
----
 
 **🎯 Currently:** Building agentic AI systems & LLM orchestration frameworks
