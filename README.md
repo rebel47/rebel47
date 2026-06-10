@@ -1,46 +1,141 @@
 # Mohammad Ayaz Alam 👨‍💻
 
-**Data Scientist | AI/ML Engineer**  
-📍 Erlangen, Germany | 📧 alam.ayaz47@gmail.com  
-[LinkedIn](https://linkedin.com/in/ayaz-alam) • [GitHub](https://github.com/rebel47) • [Hugging Face](https://huggingface.co/ayazfau)
+**AI Engineer | Multi-Agent Systems | LLM Applications | Data Science**
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=rebel47.rebel47)
+📍 Munich / Erlangen, Germany
+📧 [alam.ayaz47@gmail.com](mailto:alam.ayaz47@gmail.com)
+
+[LinkedIn](https://linkedin.com/in/ayaz-alam) • [GitHub](https://github.com/rebel47) • [Portfolio](https://rebel47.github.io) • [Hugging Face](https://huggingface.co/ayazfau)
+
+---
+
+## 🚀 About Me
+
+AI Engineer specializing in **Multi-Agent Systems**, **Agentic AI**, **LLM Applications**, **RAG Architectures**, and **Production AI Platforms**.
+
+I build enterprise-grade AI systems that combine orchestration, memory, tool usage, observability, and human-in-the-loop workflows. My experience spans industrial NLP, large-scale machine learning research, and end-to-end AI product development.
 
 ---
 
 ## 💼 Experience
 
-**🔧 Junior Data Scientist (NLP) — Siemens Energy**  
-*Jul 2025 – Present*
+### 🤖 Junior AI Engineer — Zalion GmbH
 
-- Building multi-agent AI framework with LangChain & LangGraph for automated log analysis
-- Integrated AI agents into Terminal Management Systems for operator support
-- Developed NLP pipelines for entity extraction and industrial documentation
+*Mar 2026 – Present*
 
-**📊 Research Assistant — Institute for Employment Research (IAB)**  
-*Nov 2024 – Present*
+* Building production-grade multi-agent procurement systems using LangGraph and LangChain.
+* Developing AI orchestration workflows for task automation and decision support.
+* Designing scalable backend services with FastAPI and AWS.
+* Improving agent reliability through prompt engineering, validation, and workflow optimization.
+* Building Next.js frontend components and CI/CD deployment pipelines.
 
-- Applied PU Learning on 90M+ employment records for labor market analysis
-- Built predictive models for job matching and forecasting
+### 🔬 Master's Thesis – Junior Data Scientist (NLP) — Siemens Energy
+
+*Jul 2025 – Feb 2026*
+
+* Designed and implemented an enterprise multi-agent framework for industrial AI applications.
+* Built LangGraph-based orchestration with persistent memory and audit-ready execution flows.
+* Developed AI assistants for engineering knowledge retrieval, log analysis, incident summarization, and report generation.
+* Implemented human-in-the-loop approval systems for safety-critical actions.
+* Exposed the framework through OpenAI-compatible FastAPI endpoints.
+
+### 📊 Research Assistant — Institute for Employment Research (IAB)
+
+*Nov 2024 – Feb 2026*
+
+* Applied XGBoost, Random Forest, SVM, and PU Learning techniques on 90M+ employment records.
+* Built scalable ML pipelines for labor market forecasting and job matching.
+* Performed large-scale feature engineering, data analysis, and model evaluation.
+* Contributed to research publications and technical reports.
+
+### 🏭 Data Consultant Intern — BASF
+
+*Apr 2025 – Jul 2025*
+
+* Developed Generative AI solutions for internal business users.
+* Built AI agents for automated data validation and quality assessment.
+* Developed internal productivity and event-management applications.
+* Supported AI adoption across multiple business units.
 
 ---
 
 ## 🎓 Education
 
-**MSc Data Science** — FAU Erlangen–Nürnberg *(2022 – Present)*  
-**BCA** — GGSIPU *(2018 – 2021)*
+### MSc Data Science
+
+**Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**
+*2022 – Present*
+
+Relevant Coursework:
+Machine Learning • Time Series Analysis • Mathematics of Learning • Business Analytics • Linked Data
+
+### Bachelor of Computer Applications
+
+**Guru Gobind Singh Indraprastha University**
+*2018 – 2021*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**🤖 ML/AI:** PyTorch • LangChain • LangGraph • Transformers • RAG  
-**📈 Data:** Pandas • NumPy • Scikit-learn • FAISS  
-**⚙️ Backend:** FastAPI • Django • PostgreSQL • Docker  
-**📊 Viz:** Streamlit • Plotly • Power BI  
-**🧠 LLMs:** OpenAI • Claude • Gemini
+### 🤖 AI & LLM Engineering
+
+LangGraph • LangChain • LangSmith • MCP • RAG • OpenAI • Gemini • Claude • Hugging Face • Transformers
+
+### 🧠 Machine Learning & NLP
+
+PyTorch • Scikit-learn • XGBoost • Feature Engineering • Fine-Tuning • Prompt Engineering
+
+### ⚙️ Backend & Infrastructure
+
+Python • FastAPI • Flask • PostgreSQL • Docker • AWS • Linux • CI/CD
+
+### 📊 Data Science
+
+Pandas • NumPy • Matplotlib • Plotly • Power BI • Jupyter
+
+### 🌐 Frontend & Product Development
+
+Next.js • React • JavaScript • Tailwind CSS • Flutter • Firebase
 
 ---
 
+## 🔥 Featured Projects
 
-**🎯 Currently:** Building agentic AI systems & LLM orchestration frameworks
+### Enterprise Multi-Agent Framework
+
+Industrial-grade agent orchestration platform developed at Siemens Energy featuring persistent memory, human approvals, tool execution, and audit-ready workflows.
+
+### Multi-Agent Procurement Platform
+
+Production AI system for procurement automation built using LangGraph, FastAPI, AWS, and Next.js.
+
+### Multi-Agent Project Generator
+
+Autonomous AI software builder using Planner → Architect → Coder agent workflows.
+
+### Ilmora
+
+Private on-device LLM inference platform enabling fully offline AI execution using llama.cpp and Flutter.
+
+### GPT-2 Poetry Generation with RL
+
+Fine-tuned GPT-2 model with reinforcement learning reward functions for coherence, rhyme, and creativity.
+
+---
+
+## 📈 Areas of Interest
+
+* Multi-Agent Systems
+* Agentic AI
+* LLM Infrastructure
+* RAG Architectures
+* AI Product Development
+* Production AI Engineering
+* NLP & Machine Learning
+
+---
+
+## 🎯 Currently
+
+Building scalable multi-agent AI systems, orchestration frameworks, and enterprise LLM applications.
