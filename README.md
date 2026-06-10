@@ -19,7 +19,7 @@ I build enterprise-grade AI systems that combine orchestration, memory, tool usa
 
 ## 💼 Experience
 
-### 🤖 Junior AI Engineer — Zalion GmbH
+### 🤖 AI Engineer — Zalion GmbH
 
 *Mar 2026 – Present*
 
@@ -97,30 +97,6 @@ Pandas • NumPy • Matplotlib • Plotly • Power BI • Jupyter
 ### 🌐 Frontend & Product Development
 
 Next.js • React • JavaScript • Tailwind CSS • Flutter • Firebase
-
----
-
-## 🔥 Featured Projects
-
-### Enterprise Multi-Agent Framework
-
-Industrial-grade agent orchestration platform developed at Siemens Energy featuring persistent memory, human approvals, tool execution, and audit-ready workflows.
-
-### Multi-Agent Procurement Platform
-
-Production AI system for procurement automation built using LangGraph, FastAPI, AWS, and Next.js.
-
-### Multi-Agent Project Generator
-
-Autonomous AI software builder using Planner → Architect → Coder agent workflows.
-
-### Ilmora
-
-Private on-device LLM inference platform enabling fully offline AI execution using llama.cpp and Flutter.
-
-### GPT-2 Poetry Generation with RL
-
-Fine-tuned GPT-2 model with reinforcement learning reward functions for coherence, rhyme, and creativity.
 
 ---
 
