@@ -1,90 +1,104 @@
-# Mohammad Ayaz Alam
+# Mohammad Ayaz Alam 👋
 
-### AI Engineer building systems that move from **LLM demos → production**
+### AI Engineer building AI systems that actually ship
 
-I build **multi-agent systems, AI products, and the infrastructure around them** — from orchestration and memory to APIs, realtime systems, deployment, and the user experience.
+I build **multi-agent systems, LLM applications, and AI products** that go beyond prototypes.
 
-I care less about making AI look impressive in a demo and more about making it **reliable enough that people can actually depend on it.**
+My work sits at the intersection of **AI engineering, backend systems, and product development**. I enjoy taking an idea from an LLM experiment to a reliable system with memory, orchestration, APIs, realtime communication, persistence, observability, and a user-facing product.
 
-📍 Munich, Germany · 🇩🇪
+📍 Munich, Germany
 📧 [alam.ayaz47@gmail.com](mailto:alam.ayaz47@gmail.com)
 [LinkedIn](https://linkedin.com/in/ayaz-alam) · [Portfolio](https://rebel47.github.io) · [Hugging Face](https://huggingface.co/ayazfau)
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Currently Building
 
 ### 🧩 [Lattice Lab](https://app.lattice-lab.com)
 
-**A laboratory for working with LLMs.**
+**A playground for serious LLM experimentation.**
 
-A multi-model experimentation platform that brings different LLMs into one interface for **real-time interaction, comparison, and orchestration**.
+A multi-LLM platform for running, comparing, and interacting with different models through a unified interface, with realtime streaming and model orchestration.
 
 `React` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `LLMs`
 
 ### ✈️ [Air Lune](https://airlune.space)
 
-**What if focused work felt like going somewhere?**
+**What if a focus session felt like going somewhere?**
 
-Air Lune is a multiplayer focus platform where a work session becomes a **shared flight**.
+Air Lune turns focused work into a shared flight.
 
-Choose a real airport. Pick a destination. Invite your crew. Work together while a shared aircraft moves across the map in real time.
+Choose a real airport, pick a destination, invite your crew, and work together while a shared aircraft progresses across the map.
 
-Under the hood: **server-authoritative sessions, realtime presence, multiplayer voice, persistent task state, geospatial data, interactive maps, and event-driven collaboration.**
+Behind the experience is a full realtime system with **server-authoritative focus sessions, multiplayer presence, shared tasks, chat, browser voice, geospatial data, persistent flight history, and interactive maps**.
 
 `Next.js` · `React` · `FastAPI` · `PostgreSQL/PostGIS` · `Redis` · `MapLibre` · `LiveKit` · `Firebase` · `Docker` · `AWS`
 
 ### 💌 [WhenYouOpen.me](https://whenyouopen.me)
 
-**Messages designed for a moment.**
+**Messages made for the right moment.**
 
-A product built around creating personal messages that are meant to be opened at exactly the right time.
-
----
-
-## ⚡ A Few Things I've Built
-
-**🏭 Enterprise Multi-Agent Systems**
-Designed and built a production multi-agent framework for **Siemens Energy**, including persistent state, modular orchestration, human-in-the-loop controls, and auditable execution.
-
-**🤖 Agentic Procurement**
-Built production AI workflows at **Zalion GmbH** for procurement processes including RFQ generation, supplier selection, and structured request handling.
-
-**📊 Machine Learning at Scale**
-Worked with **90M+ employment records** at the Institute for Employment Research (IAB), applying XGBoost, Random Forest, SVM, and Positive-Unlabeled Learning to labor-market problems.
-
-**🎨 Teaching GPT-2 to Write Poetry**
-Fine-tuned GPT-2 with reinforcement learning. The model has reached **3,600+ downloads on Hugging Face.**
-
-**🚀 Building in Public**
-Through **Ilham Labs.ai**, I continuously turn ideas into working AI products, experiments, and developer tools.
+A product for creating personal messages that are meant to be opened at a specific moment, turning a simple message into a meaningful experience.
 
 ---
 
-## 🧠 My Engineering Philosophy
+## ⚡ Things I've Built
 
-I like working at the intersection of **AI research and software engineering**.
+### 🏭 Production Multi-Agent Systems
 
-A model is only one component.
+Built an enterprise multi-agent framework for **Siemens Energy** with persistent state, modular agent orchestration, human-in-the-loop controls, and audit-ready execution.
 
-The interesting engineering starts when you have to deal with:
+The system supported AI assistants for engineering knowledge retrieval, log analysis, and report generation.
 
-* State that survives beyond a single prompt
-* Agents that need to coordinate reliably
-* Humans that need to remain in control
-* LLM outputs that cannot be trusted blindly
-* Long-running workflows
-* Retrieval and memory
-* Streaming and realtime interaction
-* Observability and auditability
-* APIs that need to survive production traffic
-* Infrastructure that needs to actually deploy
+### 🤖 Agentic Procurement
 
-That's the part I enjoy building.
+Built production-grade procurement agents at **Zalion GmbH** using LangGraph, LangChain, FastAPI, PostgreSQL, Next.js, and AWS.
+
+Worked on workflows including RFQ generation, supplier selection, structured request handling, validation, and human-in-the-loop execution.
+
+### 📊 Machine Learning at Scale
+
+Worked with **90M+ employment records** at the Institute for Employment Research (IAB).
+
+Applied XGBoost, Random Forest, SVM, and Positive-Unlabeled Learning to problems involving labor-market trends, occupational classification, skills, and job matching.
+
+### 🎨 GPT-2 Poetry Experiment
+
+Fine-tuned GPT-2 with reinforcement learning to generate poetry.
+
+The resulting model has reached **3,600+ downloads on Hugging Face**.
+
+### 🚀 Ilham Labs
+
+Founded **Ilham Labs.ai**, an independent AI product studio where I build AI applications, developer tools, experiments, and product ideas.
 
 ---
 
-## 🛠️ Technical Stack
+## 🧠 How I Think About AI Engineering
+
+A model is only one piece of an AI system.
+
+The difficult and interesting engineering starts when the system needs to work reliably outside a notebook.
+
+I care about:
+
+* **Reliable agent orchestration**
+* **Persistent state and memory**
+* **Human-in-the-loop systems**
+* **Structured outputs and validation**
+* **Retrieval and context management**
+* **Long-running workflows**
+* **Realtime communication**
+* **Streaming architectures**
+* **Observability and auditability**
+* **Production APIs and infrastructure**
+* **Turning AI capabilities into actual products**
+
+I like building the layer between **"the model can do this"** and **"people can depend on this."**
+
+---
+
+## 🛠️ Technologies
 
 ### AI & Agents
 
@@ -96,11 +110,11 @@ That's the part I enjoy building.
 
 ### Backend & Systems
 
-`FastAPI` · `PostgreSQL` · `PostGIS` · `Redis` · `REST` · `WebSockets` · `SSE` · `ARQ`
+`FastAPI` · `PostgreSQL` · `PostGIS` · `Redis` · `REST APIs` · `WebSockets` · `SSE` · `ARQ`
 
 ### Infrastructure
 
-`Docker` · `AWS` · `CI/CD` · `Terraform` · `Caddy`
+`Docker` · `AWS` · `Terraform` · `CI/CD` · `Caddy`
 
 ### Frontend & Product
 
@@ -114,31 +128,31 @@ That's the part I enjoy building.
 
 ## 💼 Experience
 
-### 🤖 AI Engineer — Zalion GmbH
+### 🤖 AI Engineer, Zalion GmbH
 
-**Mar 2026 – Jul 2026**
+**Mar 2026 to Jul 2026**
 
 Built production-grade multi-agent procurement systems using **LangGraph, LangChain, FastAPI, PostgreSQL, Next.js, and AWS**.
 
-Worked across the complete system — from agent orchestration and structured validation to backend APIs, frontend functionality, infrastructure, and CI/CD.
+Worked across AI orchestration, structured validation, persistent workflows, backend APIs, frontend functionality, infrastructure, and CI/CD.
 
-### 🔬 Junior Data Scientist NLP / Master's Thesis — Siemens Energy
+### 🔬 Junior Data Scientist NLP, Master's Thesis, Siemens Energy
 
-**Jul 2025 – Feb 2026**
+**Jul 2025 to Feb 2026**
 
 Designed an enterprise multi-agent framework for industrial AI with **persistent memory, modular orchestration, human-in-the-loop safety controls, and auditable execution**.
 
 Built AI assistants for engineering knowledge retrieval, log analysis, and report generation.
 
-### 📊 Research Assistant — Institute for Employment Research (IAB)
+### 📊 Research Assistant, Institute for Employment Research, IAB
 
-**Nov 2024 – Feb 2026**
+**Nov 2024 to Feb 2026**
 
 Applied machine learning across **90M+ employment records**, working on occupational classification, skill analysis, labor-market modeling, and job-matching prediction.
 
-### 🏭 Data Consultant Intern — BASF
+### 🏭 Data Consultant Intern, BASF
 
-**Apr 2025 – Jul 2025**
+**Apr 2025 to Jul 2025**
 
 Built AI agents and Generative AI applications for automated data validation, quality assessment, and enterprise productivity.
 
@@ -148,11 +162,11 @@ Built AI agents and Generative AI applications for automated data validation, qu
 
 ### [Ilham Labs.ai](https://ilhamlabs.ai)
 
-An independent AI product studio where I experiment, build, and ship.
+An independent AI product studio focused on building and experimenting with **AI applications, LLM infrastructure, developer tools, and product ideas**.
 
-The goal is simple:
+The philosophy is simple:
 
-**Have an idea → build it → put it in people's hands → learn → build the next thing.**
+**Build something useful. Ship it. Learn from it. Build again.**
 
 ---
 
@@ -160,17 +174,16 @@ The goal is simple:
 
 **MSc Data Science**
 Friedrich-Alexander-Universität Erlangen-Nürnberg
-2022 – Present
+2022 to Present
 
 ---
 
-## 🤝 If You're Building Something Difficult
+## 🤝 Let's Build Something Difficult
 
 I'm particularly interested in:
 
 **AI Engineering · Multi-Agent Systems · LLM Infrastructure · AI Products · Applied ML · Developer Tools**
 
-If you're working on a problem where **"just call an LLM" isn't enough**, I'd probably enjoy talking about it.
+If you're building something where **"just call an LLM" isn't enough**, I'd probably enjoy working on it.
 
-📧 [alam.ayaz47@gmail.com](mailto:alam.ayaz47@gmail.com)
-[LinkedIn](https://linkedin.com/in/ayaz-alam) · [Portfolio](https://rebel47.github.io) · [GitHub](https://github.com/rebel47)
+📧 [Email](mailto:alam.ayaz47@gmail.com) · [LinkedIn](https://linkedin.com/in/ayaz-alam) · [Portfolio](https://rebel47.github.io) · [Hugging Face](https://huggingface.co/ayazfau)
