@@ -2,7 +2,7 @@
 
 ### AI Engineer building production AI systems
 
-![Profile Views](https://komarev.com/ghpvc/?username=rebel47&style=flat-square)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rebel47.rebel47)
 
 I build **LLM applications, multi-agent systems, and AI products** from prototype to production, combining AI engineering, backend systems, realtime infrastructure, and product development.
 
