@@ -2,6 +2,8 @@
 
 ### AI Engineer building production AI systems
 
+![Profile Views](https://komarev.com/ghpvc/?username=rebel47&style=flat-square)
+
 I build **LLM applications, multi-agent systems, and AI products** from prototype to production, combining AI engineering, backend systems, realtime infrastructure, and product development.
 
 📍 Munich, Germany
