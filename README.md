@@ -1,4 +1,3 @@
-# MonkeyType Account Confirmation
 # Mohammad Ayaz Alam 👋
 
 ### AI Engineer building production AI systems
@@ -97,5 +96,3 @@ I enjoy building the layer between:
 
 📧 [Email](mailto:alam.ayaz47@gmail.com) · [LinkedIn](https://linkedin.com/in/ayaz-alam) · [Portfolio](https://rebel47.github.io)
 
-
-# hi mio
