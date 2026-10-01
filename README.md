@@ -96,3 +96,6 @@ I enjoy building the layer between:
 > **"The model can do this"** → **"People can depend on this."**
 
 📧 [Email](mailto:alam.ayaz47@gmail.com) · [LinkedIn](https://linkedin.com/in/ayaz-alam) · [Portfolio](https://rebel47.github.io)
+
+
+# hi mio
